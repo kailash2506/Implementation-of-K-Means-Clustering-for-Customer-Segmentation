@@ -82,6 +82,8 @@ plt.title("Customer Segments")
 
 ![alt text](<EXP 10(4).png>)
 
+
+
 ![alt text](<EXP 10(5).png>)
 
 ![alt text](<EXP 10(6).png>)
